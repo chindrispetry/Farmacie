@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Administrator\source\repos\ProiectPIU\LibrarieModele\obj\Debug\LibrarieModele.pdb
